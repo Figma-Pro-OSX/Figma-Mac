@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://s3-alpha.figma.com/hub/file/1243243882/95357450-64c5-48cd-848d-b833bdc4961a-cover.png" alt="Figma Pro screenshot"/>
+  <img src="https://figmac.com/img/figmac-hero.jpg" alt="Figma Pro screenshot"/>
 </p>
 
 ---
